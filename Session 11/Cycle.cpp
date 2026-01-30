@@ -47,5 +47,8 @@ int main(){
         for(int i:path) cout<<i<<" ";
         cout<<0;
     }
+    else{
+        cout<<"NO PATH"<<endl;
+    }
     return 0;
 }
